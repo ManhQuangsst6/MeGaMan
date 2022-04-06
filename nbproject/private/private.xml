@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/aaa/data/background_map.txt</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/Camera.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/data/frame.txt</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/BackgroundPause.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/YellowFlowerBullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/Controller/InputManager.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/RedEyeDevil.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/PhysicalMap.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/Human.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/Bullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/DarkRaiseBullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/Controller/GameWorld.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/FinalBoss.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/MenuState.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/RobotRBullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/CSDL/Form.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/Animation.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/Controller/State.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/ParticularObject.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/BlueFire.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/RobotR.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/MenuBackground.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/Controller/GameFrame.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/FrameImage.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/Megaman.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/GameObject.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/CSDL/DataProvider.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/BackgroundMap.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/Controller/GamePanel.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/RectangleButton.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/RedEyeBullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/BulletManager.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/ParticularObjectManager.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/RocketBullet.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/gameObject/cacheDataLoader.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/View/Button.java</file>
+            <file>file:/E:/NetBeansProjects/aaa/src/CSDL/mySql.java</file>
+        </group>
+    </open-files>
+</project-private>
